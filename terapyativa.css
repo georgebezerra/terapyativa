@@ -1,0 +1,1122 @@
+html {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: justify;
+}
+a {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-decoration: none;
+	color: #333;
+}
+body {
+	background-attachment: scroll;
+	background-image: url(images/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #e4e4e4;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding: 0px;
+	color: #333;
+	height: 100%;
+}
+.clear_float {
+	float: none;
+	clear: both;
+}
+
+#menu_bg {
+	background-image: url(images/barra_menu.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 117px;
+	width: 100%;
+	margin-top: -10px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-bottom: 5px;
+}
+
+#menu {
+	text-align: center;
+	height: 107px;
+	width: 973px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	clear: none;
+	float: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 22px;
+}
+#container {
+	height: auto;
+	width: 973px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	clear: both;
+	float: none;
+	padding-left: 22px;
+}
+
+#menu  img{
+	float: left;
+}
+#principal {
+	background-image: url(images/botoes/principal.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#principal:hover {
+	background-image: url(images/mouse_over/principal.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#principal:active {
+	background-image: url(images/pressed/principal.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+#pilates {
+	background-image: url(images/botoes/pilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#pilates:hover {
+	background-image: url(images/mouse_over/pilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#pilates:active {
+	background-image: url(images/pressed/pilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+#neopilates {
+	background-image: url(images/botoes/neopilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+#neopilates:hover {
+	background-image: url(images/mouse_over/neopilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#neopilates:active {
+	background-image: url(images/pressed/neopilates.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+
+#terapias {
+	background-image: url(images/botoes/terapias.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#terapias:hover {
+	background-image: url(images/mouse_over/terapias.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#terapias:active {
+	background-image: url(images/pressed/terapias.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+#boxe {
+	background-image: url(images/botoes/boxe.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#boxe:hover {
+	background-image: url(images/mouse_over/boxe.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#boxe:active {
+	background-image: url(images/pressed/boxe.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+
+#contato {
+	background-image: url(images/botoes/contato.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#contato:hover {
+	background-image: url(images/mouse_over/contato.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#contato:active {
+	background-image: url(images/pressed/contato.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 107px;
+	width: 118px;
+	float: left;
+}
+#slides {
+	height: 390px;
+	width: 959px;
+	margin-left: -11px;
+}
+
+#destaque_titulo {
+	background-image: url(images/o_metdodo_pilates_header.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 31px;
+	width: 929px;
+	font-family: Arial;
+	font-size: 24px;
+	color: #FFF;
+	padding-left: 20px;
+	padding-top: 4px;
+	margin-top: 15px;
+}
+
+#destaque_texto {
+	height: 101px;
+	width: 909px;
+	background-image: url(images/bg_destaque_texto.jpg);
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 22px;
+	padding-top: 9px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.destaque_small_titulo {
+	background-image: url(images/small_header.jpg);
+	background-repeat: no-repeat;
+	height: 37px;
+	width: 291px;
+	padding-left: 20px;
+	display: block;
+	float: left;
+	padding-top: 7px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	font-family: Arial;
+	color: #FFF;
+	font-size: 24px;
+	margin-right: 8px;
+	margin-top: 15px;
+}
+.destaques_small_texto {
+	font-family: Arial;
+	font-size: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+	line-height: 22px;
+	padding-top: 9px;
+	background-image: url(images/background_destaque_small.png);
+	float: left;
+	height: 100px;
+	width: 271px;
+	margin-right: 8px;
+}
+#leia_mais_l {
+	background-image: url(images/leia_mais_l.png);
+	height: 26px;
+	width: 237px;
+	float: left;
+	display: block;
+}
+#leia_mais_c {
+	height: 26px;
+	width: 67px;
+	float: left;
+}
+#leia_mais_r {
+	background-image: url(images/leia_mais_r.png);
+	height: 26px;
+	width: 7px;
+	float: left;
+}
+.margin_r {
+	margin-right: 8px;
+}
+#margem_rodape {
+	display: block;
+	height: 137px;
+	width: auto;
+}
+
+#row1 {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	padding-top: 12px;
+	padding-left: 44px;
+	line-height: 20px;
+	float: left;
+}
+#row2 {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	padding-top: 12px;
+	padding-left: 44px;
+	line-height: 20px;
+	margin-left: 35px;
+	width: 150px;
+	float: left;
+}
+#row3 {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	padding-top: 12px;
+	padding-left: 44px;
+	line-height: 20px;
+	margin-left: 9px;
+	width: 150px;
+	float: left;
+}
+#row4 {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	padding-top: 12px;
+	padding-left: 44px;
+	line-height: 20px;
+	width: 200px;
+	float: left;
+	margin-left: 14px;
+}
+#rodape_bg #rodape #row4 p {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	padding-top: 28px;
+	margin-left: -15px;
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+#rodape_bg {
+	background-image: url(images/rodape_background.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 127px;
+	width: 100%;
+	padding: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	top: auto;
+	background-position: center;
+	margin-top: 23px;
+	background-color: #CCC;
+}
+#rodape {
+	background-image: url(images/rodape.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	height: 127px;
+	width: 973px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#rodape_complete {
+	background-image: url(images/rodape_complete.jpg);
+	background-repeat: repeat-y;
+	height: 60px;
+	width: auto;
+	display: block;
+}
+
+#pilates_header {
+	font-family: Arial;
+	font-size: 24px;
+	color: #FFF;
+	background-image: url(images/pilates_header.jpg);
+	height: 33px;
+	width: 687px;
+	padding-left: 20px;
+	padding-top: 5px;
+}
+#historia_do_metodo_background {
+	background-image: url(images/historia_do_metodo_background.jpg);
+	height: 1100px;
+	width: 667px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: 15px;
+}
+#historia_do_metodo_background img {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+#historia_do_metodo_background p{
+	font-family: Arial;
+	color: #09C;
+	font-size: 24px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+
+#pilates_sport_background {
+	background-image: url(images/pilates_sport_background.jpg);
+	height: 554px;
+	width: 667px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
+	line-height: 19px;
+}
+
+#pilates_sport_foto1 {
+	float: right;
+	margin-bottom: 30px;
+	margin-left: 35px;
+}
+#pilates_sport_foto2 {
+	float: left;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+#cirancas_e_adolescentes_background {
+	background-image: url(images/cirancas_e_adolescentes_background.jpg);
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 475px;
+	width: 667px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
+	background-repeat: no-repeat;
+}
+#cirancas_e_adolescentes_background img {
+	float: right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+#images_pos  {
+	float: right;
+	margin-left: 20px;
+}
+#pos_operatorio_background {
+	background-image: url(images/pilates_para_gestantes_background.jpg);
+	height: 320px;
+	width: 667px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
+	line-height: 20px;
+}
+
+#pilates_para_gestantes_background {
+	background-image: url(images/pilates_para_gestantes_background.jpg);
+	height: 484px;
+	width: 667px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
+	line-height: 20px;
+}
+#pilates_para_gestantes_background p {
+	font-family: Arial;
+	color: #09C;
+	font-size: 24px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+
+#pilates_para_gestantes_background img {
+	float: right;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#pilates_para_idosos_background {
+	background-image: url(images/oulates_para_idosos_background.jpg);
+	height: 530px;
+	width: 667px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #333;
+	line-height: 20px;
+}
+.img_right  {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.img_right2 {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.img_left {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+#side_menu_pilates {
+	background-image: url(images/pilates_sidemenu/side_menu_pilates.png);
+	float: right;
+	height: 216px;
+	width: 226px;
+	margin-right: 20px;
+	padding-top: 44px;
+}
+
+
+#historia_do_metodo_button {
+	background-image: url(images/pilates_sidemenu/historia_do_metodo.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#historia_do_metodo_button:hover {
+	background-image: url(images/pilates_sidemenu/historia_do_metodo_pressed.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_sport_button {
+	background-image: url(images/pilates_sidemenu/pilates_sport.png);
+	height: 32px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_sport_button:hover {
+	background-image: url(images/pilates_sidemenu/pilates_sport_pressed.png);
+	height: 32px;
+	width: 226px;
+	display: block;
+}
+
+#criancas_e_adolescentes_button {
+	background-image: url(images/pilates_sidemenu/criancas_e_adolescentes.png);
+	height: 50px;
+	width: 226px;
+	display: block;
+}
+
+#criancas_e_adolescentes_button:hover {
+	background-image: url(images/pilates_sidemenu/criancas_e_adolescentes_pressed.png);
+	height: 50px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_para_idosos_button {
+	background-image: url(images/pilates_sidemenu/pilates_para_idosos.png);
+	height: 31px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_para_idosos_button:hover {
+	background-image: url(images/pilates_sidemenu/pilates_para_idosos_pressed.png);
+	height: 31px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_para_gestantes_button {
+	background-image: url(images/pilates_sidemenu/pilates_para_gestantes.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#pilates_para_gestantes_button:hover {
+	background-image: url(images/pilates_sidemenu/pilates_para_gestantes_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#pos_operatorio_button {
+	background-image: url(images/pilates_sidemenu/pos_operatorio.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#pos_operatorio_button:hover {
+	background-image: url(images/pilates_sidemenu/pos_operatorio_pressed.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#neopilates_header {
+	height: 34px;
+	width: 780px;
+	background-image: url(images/neopilates_header.jpg);
+	font-family: Arial;
+	font-size: 24px;
+	text-align: left;
+	color: #FFF;
+	margin-right: 8px;
+	padding-top: 5px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+}
+
+
+#conteudo_neopilates {
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 22px;
+	color: #333;
+	background-image: url(images/background_neopilates.png);
+	background-repeat: no-repeat;
+	height: 1055px;
+	width: 760px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#conteudo_neopilates p {
+	font-family: Arial;
+	color: #09C;
+	font-size: 24px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+
+
+#skier {
+	height: auto;
+	width: auto;
+	margin-top: 24px;
+	padding-top: 1px;
+}
+
+#skier img {
+	float: left;
+	margin-right: 20px;
+}
+#slackline {
+	height: auto;
+	width: auto;
+	margin-top: 10px;
+	padding-top: 1px;
+}
+
+
+#slackline img {
+	float: right;
+	margin-left: 20px;
+	margin-top: -70px;
+}
+#gravit {
+	height: auto;
+	width: auto;
+	padding-top: 1px;
+	margin-top: 0px;
+}
+
+
+
+#gravit img {
+	float: left;
+	margin-right: 20px;
+}
+#wall {
+	height: auto;
+	width: auto;
+	padding-top: 1px;
+	margin-top: 25px;
+}
+
+#wall img {
+	float: right;
+	margin-left: 20px;
+	margin-top: -50px;
+}
+#side_menu_neopilates {
+	background-image: url(images/neopilates_sidemenu/neopilates_sidemenu.png);
+	background-repeat: no-repeat;
+	height: 135px;
+	width: 125px;
+	float: right;
+	margin-right: 20px;
+	padding-top: 44px;
+}
+
+#skier_button {
+	background-image: url(images/neopilates_sidemenu/skier.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+
+#skier_button:hover {
+	background-image: url(images/neopilates_sidemenu/skier_pressed.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+
+#slackline_button {
+	background-image: url(images/neopilates_sidemenu/slackline.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+#slackline_button:hover {
+	background-image: url(images/neopilates_sidemenu/slackline_pressed.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+
+#gravit_button {
+	background-image: url(images/neopilates_sidemenu/gravit.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+#gravit_button:hover {
+	background-image: url(images/neopilates_sidemenu/gravit_pressed.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+
+#wall_button {
+	background-image: url(images/neopilates_sidemenu/wall.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+#wall_button:hover {
+	background-image: url(images/neopilates_sidemenu/wall_pressed.png);
+	height: 32px;
+	width: 125px;
+	display: block;
+}
+#terapias_header {
+	height: 33px;
+	width: 787px;
+	background-image: url(images/terapias_header.jpg);
+	font-family: Arial;
+	font-size: 24px;
+	text-align: left;
+	color: #FFF;
+	margin-right: 8px;
+	padding-top: 5px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+}
+
+#conteudo_terapia {
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 22px;
+	color: #333;
+	background-image: url(images/background_terapias.png);
+	background-repeat: no-repeat;
+	height: 5288px;
+	width: 667px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#conteudo_terapia p {
+	font-family: Arial;
+	color: #09C;
+	font-size: 24px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+
+#conteudo_terapia img  {
+	float: right;
+	margin-left: 20px;
+}
+#conteudo_terapia div {
+	margin-bottom: 50px;
+}
+#kinesio_taping {
+	margin-top: -20px;
+}
+
+#bullet_div {
+	clear: none;
+	padding-left: 20px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+
+}
+#bullet_div img {
+	float: left;
+	margin-top: 9px;
+	margin-right: 10px;
+	margin-left: -20px;
+}
+.margin_top {
+	margin-top: 20px;
+}
+.margin_topx2 {
+	margin-top: 35px;
+}
+
+#side_menu_terapias {
+	background-image: url(images/terapias_sidemenu/terapias_sidemenu.png);
+	background-repeat: no-repeat;
+	height: 313px;
+	width: 226px;
+	float: right;
+	margin-right: 20px;
+	padding-top: 44px;
+}
+
+#rpg_button {
+	background-image: url(images/terapias_sidemenu/rpg.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#rpg_button:hover {
+	background-image: url(images/terapias_sidemenu/rpg_pressed.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#kinesio_taping_button {
+	background-image: url(images/terapias_sidemenu/kinesio_taping.png);
+	height: 33px;
+	width: 226px;
+	display: block;
+}
+
+#kinesio_taping_button:hover {
+	background-image: url(images/terapias_sidemenu/kinesio_taping_pressed.png);
+	height: 33px;
+	width: 226px;
+	display: block;
+}
+
+#terapia_do_gancho_button {
+	background-image: url(images/terapias_sidemenu/terapia_do_gancho.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#terapia_do_gancho_button:hover {
+	background-image: url(images/terapias_sidemenu/terapia_do_gancho_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#drenagem_linfatica_button {
+	background-image: url(images/terapias_sidemenu/drenagem_linfatica.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#drenagem_linfatica_button:hover {
+	background-image: url(images/terapias_sidemenu/drenagem_linfatica_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#auriculoterapia_button {
+	background-image: url(images/terapias_sidemenu/auriculoterapia.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#auriculoterapia_button:hover {
+	background-image: url(images/terapias_sidemenu/auriculoterapia_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#atividade_aerobica_button {
+	background-image: url(images/terapias_sidemenu/atividade_aerobica.png);
+	height: 28px;
+	width: 226px;
+	display: block;
+}
+
+#atividade_aerobica_button:hover {
+	background-image: url(images/terapias_sidemenu/atividade_aerobica_pressed.png);
+	height: 28px;
+	width: 226px;
+	display: block;
+}
+
+#acumpultura_button {
+	background-image: url(images/terapias_sidemenu/acumpultura.png);
+	height: 31px;
+	width: 226px;
+	display: block;
+}
+
+#acumpultura_button:hover {
+	background-image: url(images/terapias_sidemenu/acumpultura_pressed.png);
+	height: 31px;
+	width: 226px;
+	display: block;
+}
+
+#shiatsu_button {
+	background-image: url(images/terapias_sidemenu/shiatsu.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#shiatsu_button:hover {
+	background-image: url(images/terapias_sidemenu/shiatsu_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#bambuterapia_button {
+	background-image: url(images/terapias_sidemenu/bambuterapia.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#bambuterapia_button:hover {
+	background-image: url(images/terapias_sidemenu/bambuterapia_pressed.png);
+	height: 30px;
+	width: 226px;
+	display: block;
+}
+
+#massagem_modeladora_button {
+	background-image: url(images/terapias_sidemenu/massagem_modeladora.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#massagem_modeladora_button:hover {
+	background-image: url(images/terapias_sidemenu/massagem_modeladora_pressed.png);
+	height: 29px;
+	width: 226px;
+	display: block;
+}
+
+#contato_header {
+	height: 33px;
+	width: 932px;
+	background-image: url(images/contato_header.jpg);
+	font-family: Arial;
+	font-size: 24px;
+	text-align: left;
+	color: #FFF;
+	margin-right: 8px;
+	padding-top: 4px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+}
+
+#conteudo_boxe {
+	background-image: url(images/background_boxe.png);
+	height: 700px;
+	width: 912px;
+	padding: 20px;
+	display: block;
+}
+
+#conteudo_contato {
+	background-image: url(images/background_contato.png);
+	height: 821px;
+	width: 912px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#left_block {
+	float: left;
+}
+#endereco {
+	font-size: 23px;
+	color: #09C;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+#tel_e_email {
+	font-family: Arial;
+}
+#conteudo_contato a {
+	text-decoration: underline;
+	color: #09C;
+	line-height: 25px;
+}
+#facebook {
+	background-image: url(images/facebook.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 70px;
+	height: 26px;
+	width: auto;
+	margin-top: -3px;
+
+}
+#right_block {
+	font-family: Arial;
+	color: #333;
+	float: left;
+	margin-top: 40px;
+}
+#form_text {
+	float: left;
+	margin-right: 15px;
+	line-height: 24px;
+}
+#mapa {
+	background-image: url(images/mapa.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 489px;
+	width: 906px;
+	margin-top: 45px;
+}
+
+.geral {
+	min-height:100%;
+	position:relative;
+}
+ 
+.footer {
+	position:absolute;
+	width:100%;
+	bottom: 0px;
+	margin-bottom: -9px;
+}

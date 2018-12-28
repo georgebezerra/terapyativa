@@ -1,0 +1,162 @@
+#tudo {
+	width: 953px;
+	height: 2000px;
+	margin-top: -7px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	}
+body {
+	background-repeat: repeat-x;
+	background-color: #fff;
+	background-image: url(img/fundopilates.gif);
+}
+#botaoambiente {
+	height: 43px;
+	width: 157px;
+	position: relative;
+	float: left;
+}
+#botaoservicos {
+	float: left;
+	height: 43px;
+	width: 158px;
+	position: relative;
+}
+#botaopilates {
+	float: left;
+	height: 43px;
+	width: 158px;
+	position: relative;
+}
+
+
+#menu {
+	position: relative;
+	height: 43px;
+	width: 947px;
+	float: left;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	text-align: center;
+	padding: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	border-top-color: #ccc;
+	border-right-color: #ccc;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+}
+
+#botaoprincipal {
+	height: 43px;
+	width: 157px;
+	background-color: #f4f4f4;
+	padding-top: 0px;
+	color: #000;
+	position: relative;
+	float: left;
+}
+
+
+
+#logo {
+	background-repeat: no-repeat;
+	position: relative;
+	height: 144px;
+	width: 953px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	background-color: #9e30c6;
+}
+#botaoesportes {
+	float: left;
+	height: 43px;
+	width: 160px;
+	position: relative;
+}
+#metodopilates {
+	float: left;
+	height: 70px;
+	width: 953px;
+	position: relative;
+	color: #000;
+	text-align: left;
+	background-color: #f8f7f7;
+	font-size: 8px;
+}
+.salapilates {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #6d3aa0;
+}
+span.corpo {
+	color: #9378ae;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	text-align: justify;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -15px;
+}
+
+#slideshow {
+	float: left;
+	height: 410px;
+	width: 948px;
+	position: relative;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	margin-left: -2px;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+}
+
+#botaocontato {
+	float: left;
+	height: 43px;
+	width: 157px;
+	position: relative;
+}
+#instalacoes {
+	width: 947px;
+	position: relative;
+	float: left;
+	height: 150px;
+}
+.instalacoes {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 28px;
+	color: #6d3aa0;
+}
+#fotosala {
+	float: left;
+	height: 252px;
+	width: 371px;
+	position: relative;
+	margin-top: 40px;
+}
+#sala {
+	float: left;
+	width: 500px;
+	position: relative;
+	height: 252px;
+	margin-top: 40px;
+}

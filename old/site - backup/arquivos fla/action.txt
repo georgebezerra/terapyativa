@@ -1,0 +1,34 @@
+Ajustes a serem feitos!
+
+1-divisão do itens do menu, shadow separador
+
+2-Ajustar a barra de menu
+
+3-Ajustar os botões do slideshow
+
+4-Alinhar mais a esquerda todo o site - ok
+
+on (release) {
+	getURL("file:///D:/Dropbox/sites%20-%20projetos/bia/site/ambiente.html");
+}
+
+on (release) {
+	getURL("file:///D:/Dropbox/sites%20-%20projetos/bia/site/serviços.html");
+}
+
+on (release) {
+	getURL("file:///D:/Dropbox/sites%20-%20projetos/bia/site/pilates.html");
+}
+
+on (release) {
+	getURL("file:///D:/Dropbox/sites%20-%20projetos/bia/site/esportes.html");
+}
+
+on (release) {
+	getURL("file:///D:/Dropbox/sites%20-%20projetos/bia/site/contato.html");
+}
+
+
+on (release) {
+	gotoAndPlay(1);
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item filename="foto1.png"
+		url="servicos.html" 
+		target="_blank"
+		title="Serviços" 
+		description="Bambu terapia" />
+	<item filename="foto2.png"
+		url="servicos.html" 
+		target="_blank"
+		title="Serviços" 
+		description="Massagem" />
+			<item filename="foto3.png"
+		url="#" 
+		target="_blank"
+		title="Seminários" 
+		description="Seminários" />
+			<item filename="foto4.png"
+		url="ambiente.html" 
+		target="_blank"
+		title="Instalações" 
+		description="Instalações" />
+</items>
