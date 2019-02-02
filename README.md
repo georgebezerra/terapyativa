@@ -1,7 +1,5 @@
-# Terapyativa
+# Terapyativa pilates e saúde
 
-
-Terapyativa pilates e saúde
 
 Projeto de desenvolvimento do Website do studio de pilates Terapyativa.
 
