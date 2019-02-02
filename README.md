@@ -6,6 +6,8 @@ Projeto de desenvolvimento do Website do studio de pilates Terapyativa.
 
 # Demo
 
+![Chiper Project](https://github.com/georgebezerra/terapyativa/blob/master/images/terapyativa.gif)
+
 Link: http://terapyativa.surge.sh/
 
 Este website foi criado:
