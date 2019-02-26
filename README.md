@@ -29,7 +29,7 @@ Instalação
 
 **Faça o donwload do projeto:**
 
-i. git clone https://github.com/georgebezerra/terapyativa.github.io
+i. git clone https://github.com/georgebezerra/terapyativa
 
 ii. Abra no navegador o arquivo index.html que se encontra dentro da pasta descompactada
 
