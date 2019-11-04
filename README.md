@@ -16,8 +16,6 @@ Este website foi criado:
 * Html
 * CSS
 * Tableless
-* JQuery
-
 
 **Iniciando o projeto**
 
